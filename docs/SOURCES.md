@@ -10,7 +10,7 @@ Checked 8 October 2026. This is a proposed website concept, not an approved offi
 - [Magicpin listing](https://magicpin.in/Kolkata/Bangur/Fashion/Smiles-Boutique/store/1cbb83): matches the lead phone and lists dress materials. Its public four-photo page was inspected, though those low-resolution images were not needed after the higher-quality verified Google photos were obtained. Its enquiry link uses a platform number and was not treated as the boutique’s WhatsApp.
 - [Supplied Chotu listing](https://chotu.com/local/tailors-in-lake-town-kolkata-west-bengal-india/ct-18407745/) includes the business in Bangur. [Supplied IDBF link](https://kolkata.idbf.in/4191688/smiles-boutique) could not be opened in research.
 - Google reviews visible without sign-in: Latika Gupta, Abhishek Poddar and Swagata Rudra, each shown as 5 stars and 5 months old on 8 Oct 2026. The site uses summaries rather than verbatim review text. Source: matching Google Maps listing above.
-- WhatsApp was signed out during verification; the sheet and verified listing provide a telephone number but do not label it as WhatsApp. No unverified WhatsApp link was included.
+- On 8 October 2026, the signed-in WhatsApp Web session resolved the exact +91 98741 43888 number to a chat. The sheet and matching Google listing independently connect that number to this boutique. WhatsApp displayed the number rather than a business profile name, so the site presents this as a direct message option to the verified business phone, without claiming an independently verified WhatsApp business badge.
 
 ## Media
 
